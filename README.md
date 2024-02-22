@@ -1,5 +1,5 @@
 # Openboard
-A patch I made to get OpenBoard to run in a window so that it can be used successfully with google-meet as well.
+A patch I made to get [OpenBoard](https://github.com/OpenBoard-org/OpenBoard) to run in a window so that it can be used successfully with google-meet as well.
 
 The slackbuild from Willy Sudiarto is included.
 
